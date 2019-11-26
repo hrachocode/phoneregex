@@ -1,7 +1,7 @@
 # phoneregex
 Regex pattern for armenian phone numbers
 
-	Current version (([+][\s]?\d{3}|[0])?)?(\d{2})(\d{3})(\d{3})
+	Current version (([+374]{4}|[0]{1}))?([1-9]{2})(\d{6})
 	
 		Accepted + with  letter number(374 possibly) OR 0 then sequence of digits with allowed range
 		
